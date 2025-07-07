@@ -27,8 +27,8 @@
   🏍️ Catching up with the world on my Ducati <br>
   🌍 Looking for Solutions on the World's Biggest problems <br>
   ☁️ Building and managing scalable cloud infrastructure <br>
-  ⚙️ Automating everything with DevOps tools <br>
-  🎮 Used to be a PC Gamer nowadays I just sleep 💤<br>
+  ⚙️ Automating everything <br>
+  🎮 Used to be a PC Gamer, nowadays I just sleep 💤<br>
   <blockquote align="center"><i>"It does not matter how slowly you go as long as you do not stop"</i></blockquote>
   <blockquote align="center"><i>" For that, the best time to plant a tree was 20 years ago. The second-best time is now."</i></blockquote>
 
