@@ -2,7 +2,7 @@
 <h3 align="center"> Hello there. </h3>
 
 <p align="center">
-  I'm a Cybersecurity researcher, DevOps engineer, and software developer with a passion for all things with Google Cloud. With a diverse background in IT, I love exploring new technologies and finding innovative ways to solve complex problems. When I'm not working, you'll find me indulging in my love for military history and technology. Let's connect and geek out over tech!
+  I'm a Cybersecurity researcher, DevOps, and System/Cloud Manager with a passion for all things with Google Cloud. With a diverse background in IT, I love exploring new technologies and finding innovative ways to solve complex problems. When I'm not working, you'll find me indulging in my love for military history and technology. Let's connect and geek out over tech!
 </p>
 
 <p align="center">
